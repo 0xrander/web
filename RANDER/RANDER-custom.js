@@ -464,8 +464,6 @@
                                             borderRadius: "".concat(o.borderRadius, "rem"),
                                             backgroundColor: (0, n.G)(o.primarycolor, o.opacity)
                                         },
-                                        className: "p-2",
-                                        children: l(e.icon)
                                     }), (0, r.jsxs)("div", {
                                         className: "flex flex-col max-w-[85%]",
                                         children: [(0, r.jsx)("h1", {
@@ -511,8 +509,6 @@
                                             borderRadius: "".concat(o.borderRadius, "rem"),
                                             backgroundColor: (0, n.G)(o.primarycolor, o.opacity)
                                         },
-                                        className: "p-2",
-                                        children: l(e.icon)
                                     }), (0, r.jsxs)("div", {
                                         className: "flex flex-col max-w-[85%]",
                                         children: [(0, r.jsx)("h1", {
